@@ -1,9 +1,8 @@
 ---
 ---
 
-# Intro
+# Amin Sadeghi Sheshdeh
 
-Amin Sadeghi Sheshdeh
 PhD Candidate working on sustainability assessment at [University of Southern Denmark](https://www.sdu.dk/en), [Green Technology Department](https://www.sdu.dk/da/igt). 
 
 
