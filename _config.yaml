@@ -5,6 +5,8 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+url: "https://amsa96.github.io"
+baseurl: "/aminsadeghi.github.io"
 
 # site social media and other links
 links:
