@@ -1,10 +1,10 @@
 ---
 ---
 
-# Lab Website Template
+# Intro
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+[Amin Sadeghi Sheshdeh](https://github.com/greenelab/lab-website-template) PhD Candidate working on sustainability assessment at [University of Southern Denmark](https://www.sdu.dk/en), [Green Technology Departmen]t(https://www.sdu.dk/da/igt). 
+
 
 {%
   include button.html
