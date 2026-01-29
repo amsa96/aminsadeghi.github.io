@@ -3,7 +3,8 @@
 
 # Intro
 
-[Amin Sadeghi Sheshdeh](https://github.com/greenelab/lab-website-template) PhD Candidate working on sustainability assessment at [University of Southern Denmark](https://www.sdu.dk/en), [Green Technology Departmen]t(https://www.sdu.dk/da/igt). 
+Amin Sadeghi Sheshdeh
+PhD Candidate working on sustainability assessment at [University of Southern Denmark](https://www.sdu.dk/en), [Green Technology Department](https://www.sdu.dk/da/igt). 
 
 
 {%
